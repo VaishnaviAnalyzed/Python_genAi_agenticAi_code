@@ -17,6 +17,7 @@ I have successfully completed and documented the following foundational Python t
 * **Sets:** Unordered collections of unique elements, perfect for checking membership and performing mathematical set operations (union, intersection).
 * **Dictionaries (Dicts):** Key-value mappings, covering access, modification, and common dictionary methods.
 * **Control Flow:** Mastering `if/elif/else` statements, `for` loops, and `while` loops for execution control.
+* **Functions:** Defining functions, understanding scope and keyword arguments functions.
 
 ### 📊 Data Science Libraries
 I have also integrated the core libraries used for data analysis and visualization:
@@ -28,6 +29,5 @@ I have also integrated the core libraries used for data analysis and visualizati
 ## 🎯 Next Steps & Future Focus
 
 The learning path continues with these planned topics:
-* **Functions:** Defining functions, understanding scope, keyword arguments, and lambda functions.
 * **Basic I/O:** Reading and writing files (`open()`, `read()`, `write()`).
 * **Error Handling:** Using `try`, `except`, `finally` for robust code.
